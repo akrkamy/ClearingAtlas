@@ -35,7 +35,7 @@ Long-Evans Rat Clearing Atlas
     there are sectional image with insufficient frames -> 4_trim(manual)
 8. 5_xmerge(atbrightest)
 9. 6_ymerge(atbrightest)
-10. 
+10. 7_zmerge
 
 Approximate process time (one hemisphere, 2x18, 〜20GB)
     - bit change: 30 min
