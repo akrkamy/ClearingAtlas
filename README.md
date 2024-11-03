@@ -2,6 +2,7 @@
 Long-Evans Rat Clearing Atlas
 
 1. Create folders
+    - ffc
     - [animal id]
         - 12bit
             - l
@@ -24,6 +25,9 @@ Long-Evans Rat Clearing Atlas
         - ymerged
             - l
             - r
+        - ffc
+            - l
+            - r
         - zmerged
 
 2. Modify 0_data.py (modify after each step as needed)
@@ -35,7 +39,9 @@ Long-Evans Rat Clearing Atlas
     there are sectional image with insufficient frames -> 4_trim(manual)
 8. 5_xmerge(atbrightest)
 9. 6_ymerge(atbrightest)
-10. 7_zmerge
+10. 7_ffc_target
+11. 7_ffc
+12. 8_zmerge
 
 Approximate process time (one hemisphere, 2x18, 〜20GB)
     - bit change: 30 min
