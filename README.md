@@ -44,14 +44,14 @@ Long-Evans Rat Clearing Atlas
 12. 8_zmerge
 
 Approximate process time (one hemisphere, 2x18, 〜20GB)
-    - bit change: 30 min
-    - downsample: 30 min
-    - concatenate: 1 min
-    - trim: 
-    - trim(manual): 
-    - xmerge(atbrightest): 6 min
-    - xmerge(original): 6 min
-    - ymerge(atbrightest): 2 min
+- bit change: 30 min
+- downsample: 30 min
+- concatenate: 1 min
+- trim: 
+- trim(manual): 
+- xmerge(atbrightest): 6 min
+- xmerge(original): 6 min
+- ymerge(atbrightest): 2 min
 
 Attetion:
 - Be aware of the file names in the original codes
