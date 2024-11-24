@@ -30,7 +30,7 @@ Approximate process time (one hemisphere, 2x18, 〜20GB)
 - ymerge(atbrightest): 2 min
 - zmerge: 10 min
 
-Folder Structure:
+Folder Structure
 
     - ffc
     - [animal id]
