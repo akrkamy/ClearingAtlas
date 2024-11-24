@@ -30,38 +30,38 @@ Approximate process time (one hemisphere, 2x18, 〜20GB)
 - ymerge(atbrightest): 2 min
 - zmerge: 10 min
 
-Folder Structure
+Folder Structure:
 
+- ffc
+- [animal id]
+    - 12bit
+        - l
+        - r
+    - 8bit
+        - l
+        - r
+    - downsample
+        - l
+        - r
+    - concatenated
+        - l
+        - r
+    - trimmed
+        - l
+        - r
     - ffc
-    - [animal id]
-        - 12bit
-            - l
-            - r
-        - 8bit
-            - l
-            - r
-        - downsample
-            - l
-            - r
-        - concatenated
-            - l
-            - r
-        - trimmed
-            - l
-            - r
-        - ffc
-            - l
-            - r
-        - xmerged
-            - l
-            - r
-        - ymerged
-            - l
-            - r
-        - padding
-            - l
-            - r
-        - zmerged
+        - l
+        - r
+    - xmerged
+        - l
+        - r
+    - ymerged
+        - l
+        - r
+    - padding
+        - l
+        - r
+    - zmerged
 
 Note:
 - Mac (Apple Sillicon) with 16 GB memory
